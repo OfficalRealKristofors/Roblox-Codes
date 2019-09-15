@@ -1,0 +1,34 @@
+Thank for downloading my skin pack template (1.0.0)! this only works for version 1.2 and above.
+---
+name: MCPE Skin Pack
+fname: New Folder
+lname: Super Awesome Ninja Steve
+UUID: https://www.youtube.com/channel/UCniFEQCc-D0UsRS1eWOMu-w?view_as=subscriber
+---
+video tutorial: https://youtu.be/bmEOCOmhev0
+---
+LIST OF LANGUAGES
+Note: some of those might not be right, I just extracted them from an iOS app.
+
+id_ID: Indonesia
+da_DK: Denmark
+de_DE: German
+en_UK: English (UK)
+en_US: English (US) (already there)
+es_ES: Spanish
+es_MX: Spanish (Mexico)
+fr_CA: French (Canada)
+fr_FR: French (France)
+it_IT: Italy
+hu_HU: Hungary
+nl_NL: Dutch (Netherlands)
+nb_NO: Norwegian Bokmål (Norway)
+pl_PL: Polish (Poland)
+pt_BR: Portuguese (Brazil)
+pt_PT: Portuguese
+sk_SK: Slovak
+fi_FI: Finnish
+sv_SE: Swedish
+tr_TR: Turkish (Turkey)
+
+I don't know the rest, sorry
